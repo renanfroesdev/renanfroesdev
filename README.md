@@ -13,5 +13,6 @@
 ## 📫 Como falar comigo
 
 - ✉️ Email: [renanfroesdev@gmail.com](mailto:renanfroesdev@gmail.com)
+- 📞 WhatsApp Business: [Clique para conversar](https://wa.me/5548984080992)
 
 🚀 *Em constante evolução.*
