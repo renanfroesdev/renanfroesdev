@@ -1,7 +1,7 @@
 # Oi, eu sou o Renan Fróes  ![gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 - 🤝 Bem-vindo ao meu GitHub!
-- 📚 Atualmente estudando **Desenvolvimento Web**
+- 📚 Atualmente cursando Bacharelado em Engenharia de Software e estudando **Desenvolvimento Web**
 
 ## 💻 O que estou construindo agora
 
