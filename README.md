@@ -10,7 +10,7 @@
 - Aprimorando minha lógica e domínio do **JavaScript**
 - Explorando **Python** com soluções voltadas à produtividade e automações
 
-## 🤓 Tecnologias que eu estudo
+## 🤓 Tecnologias que estou estudando
 
 <table>
   <tr>
